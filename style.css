@@ -1,0 +1,51 @@
+.div{
+text-align: center;
+background-color: white;
+}
+.div-part{
+background-color: aliceblue;
+margin-top: 2%;
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 1%;
+box-shadow: 4px 3px 16px 4px rgba(143,112,112,0.75);
+-webkit-box-shadow: 4px 3px 16px 4px rgba(143,112,112,0.75);
+-moz-box-shadow: 4px 3px 16px 4px rgba(143,112,112,0.75);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: 200;
+}
+div{
+    margin-top: 4%;
+    padding: 12px;
+    text-align: left;
+}
+input{
+    width: 40%;
+    height: 6vh;
+    border-radius: 8px;
+    margin-left: 2%;
+}
+#phoneno{
+    margin-left: 2%;
+}
+#email{
+    margin-left: 4.5%;
+}
+#code{
+    margin-left: 3.5%;
+}
+button{
+    margin-top: 2%;
+    margin-left: 25%;
+    padding: 6px 6px;
+    font-size: initial;
+    color: white;
+    background: green;
+    border-radius: 5px;
+}
